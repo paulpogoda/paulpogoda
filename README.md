@@ -4,7 +4,7 @@ OSINT investigator, fact-checker, profiler, and trainer. Born in Kazakhstan, liv
 I’m looking to collaborate on projects related to the Central Asia region, but Eastern Europe or the Caucasus are OK too.
 
 
-Learning Python, teaching journalists, fact-checkers, and OSINTers. Love to create something useful. 
+Learning Python and Go, teaching journalists, fact-checkers, and OSINTers. Love to create something useful. 
 
 - **Feel free to write me and [ask for a training proposal in Russian or English on my LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/). Get a pro bono consultation if you and your team are based in Central Asia or the Caucasus.**
 
