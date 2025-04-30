@@ -8,9 +8,9 @@ Learning Python and Go, teaching journalists, fact-checkers, and OSINTers. Love 
 
 **Join to the [OSINT-for-countries-V2.0 Project](https://github.com/paulpogoda/OSINT-for-countries-V2.0). Let's create useful and structured tutorial for country-specific OSINT together.**
 
-- **Feel free to write me and [ask for a training proposal in Russian or English on my LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/). Get a pro bono consultation if you and your team are based in Central Asia or the Caucasus.**
+- Feel free to write me and [ask for a training proposal in Russian or English on my LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/). Get a pro bono consultation if you and your team are based in Central Asia or the Caucasus.
 
-- **[Some free or very inexpensive educational OSINT content on my team's Patreon | In Russian](https://www.patreon.com/c/provereno).**
+- [Some free or very inexpensive educational OSINT content on my team's Patreon | In Russian](https://www.patreon.com/c/provereno).
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulpogoda&theme=default&show_icons=true&hide_border=true&count_private=true" alt="paulpogoda's GitHub Stats" />
 
