@@ -11,7 +11,7 @@ Learning Python and Go, teaching journalists, fact-checkers, and OSINTers. Love 
 - Feel free to write me and [ask for a training proposal in Russian or English on my LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/). Get a pro bono consultation if you and your team are based in Central Asia or the Caucasus.
 
 - [Some free or very inexpensive educational OSINT content on my team's Patreon | In Russian](https://www.patreon.com/c/provereno).
-- [Sherlock's Browser Online Course on my team's Patreon | In Russian]([https://www.patreon.com/c/provereno](https://www.patreon.com/collection/1490234?view=expanded)).
+- [Sherlock's Browser Online Course on my team's Patreon | In Russian](https://www.patreon.com/c/provereno](https://www.patreon.com/collection/1490234?view=expanded).
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulpogoda&theme=default&show_icons=true&hide_border=true&count_private=true" alt="paulpogoda's GitHub Stats" />
 
